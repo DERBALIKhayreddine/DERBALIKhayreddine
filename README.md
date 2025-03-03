@@ -1,45 +1,38 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+# Hello 🌎, I’m Kheireddine Derbali
 
-### Hello 🌎, I'm Kheireddine Derbali
+I am a **Software Engineer** and **Full-Stack Developer** from Tunisia.  
 
-a **software engineer** and **full-stack developer** based in Tunis, Tunisia. With a strong foundation in web and software development, I specialize in building dynamic, scalable applications, from front-end interfaces to complex back-end systems. I’ve had the opportunity to work across various technologies and industries, which has shaped me into a versatile and solutions-driven developer.
+## 🚀 Career Goals  
+- Becoming a **Senior Software Engineer**, mastering advanced system design and scalable architecture.  
+- Transitioning into a **Software Architect** role, designing and optimizing large-scale distributed systems.  
+  
+I’m always eager to learn, collaborate, and contribute to high-impact projects.  
 
-**I’m a proactive problem-solver who values quality code and maintainability.**
------
-[Linkedin](https://www.linkedin.com/in/derbalikhaireddine/)
------
+---  
 
-<h3 align="left">Languages and Tools:</h3>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,spring,python,laravel,express"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap,ts"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,githubactions,gitlab"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=selenium"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
-    </tr>
-</table>
-------
-<h3 align="left">Activity:</h3>
+## 🛠️ Tech Stack & Tools  
 
+### **Backend**  
+![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![Python](https://skillicons.dev/icons?i=python) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Express.js](https://skillicons.dev/icons?i=express)  
 
+### **Frontend**  
+![Next.js](https://skillicons.dev/icons?i=nextjs) ![Angular](https://skillicons.dev/icons?i=angular) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts)  
+
+### **Databases**  
+![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)  
+
+### **DevOps & CI/CD**  
+![Docker](https://skillicons.dev/icons?i=docker) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![GitLab](https://skillicons.dev/icons?i=gitlab)  
+
+### **Automated Testing**  
+![Selenium](https://skillicons.dev/icons?i=selenium)  
+
+### **Version Control**  
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)  
+
+---  
+
+## 📈 GitHub Activity  
 
 <div align="center">
   <a href="https://github.com/DERBALIKhayreddine">
@@ -47,15 +40,16 @@ a **software engineer** and **full-stack developer** based in Tunis, Tunisia. Wi
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DERBALIKhayreddine&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="DERBALIKhayreddine"/>
   </a>
 </div>
+
 <p align="center">
   <a href="https://github.com/DERBALIKhayreddine">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DERBALIKhayreddine&&theme=tokyonight" alt="DERBALIKhayreddine" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DERBALIKhayreddine&&theme=tokyonight" alt="GitHub Streak Stats" />
   </a>
 </p>
 
-------
+---  
 
-[Kheireddine Derbali]()
-<p>last update : 11/11/2024</p>
+## 📬 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/derbalikhaireddine/)  
 
-
+_Last Updated: 03/03/2025_  
