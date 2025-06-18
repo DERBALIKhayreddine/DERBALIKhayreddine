@@ -18,9 +18,6 @@ I am a Software Engineer and Full-Stack Developer from Tunisia.<br><br>🚀 Care
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DERBALIKhayreddine&theme=vision-friendly-dark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DERBALIKhayreddine&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
